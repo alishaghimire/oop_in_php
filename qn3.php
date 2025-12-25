@@ -87,7 +87,7 @@ echo $std->showTuition() . "<br><br>";
 // ----------------------------
 
 $ptStd = new PartTimeStudent();
-$ptStd->name = "Sara";
+$ptStd->name = "Binisha";
 $ptStd->surname = "Shrestha";
 $ptStd->country = "Nepal";
 
